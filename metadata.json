@@ -1,0 +1,6 @@
+{
+  "name": "RM Browser",
+  "description": "Safe, Smart, Halal Internet browser with real Chromium WebView, Kahaf Guard DNS protection, AI internet filtering, and Islamic Safe Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
